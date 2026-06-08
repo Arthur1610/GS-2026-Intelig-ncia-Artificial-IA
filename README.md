@@ -1,2 +1,8 @@
 # GS-2026-Inteligencia-Artificial-IA
 RoverAI: IA para exploração planetária (GS FIAP). Integra Machine Learning (MLP e Árvore de Decisão) para navegação por telemetria IoT, Regressão Linear para previsão de consumo energético em Watts e Visão Computacional (OpenCV) para detecção de obstáculos e mapeamento de terreno. Focado em sistemas robóticos críticos e integração Edge AI.
+
+##  Como Executar
+
+O projeto pode ser executado diretamente no navegador através do Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AkMmvtltetLRZfzKvtyq93qoPb9jvsv_?usp=sharing)
